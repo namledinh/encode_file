@@ -1,0 +1,11 @@
+C:\Users\NamLDC\Code_C#\MaHoaFile\Encode_File\Encode_File\bin\Debug\Encode_File.exe.config
+C:\Users\NamLDC\Code_C#\MaHoaFile\Encode_File\Encode_File\bin\Debug\Encode_File.exe
+C:\Users\NamLDC\Code_C#\MaHoaFile\Encode_File\Encode_File\bin\Debug\Encode_File.pdb
+C:\Users\NamLDC\Code_C#\MaHoaFile\Encode_File\Encode_File\obj\Debug\Encode_File.csproj.AssemblyReference.cache
+C:\Users\NamLDC\Code_C#\MaHoaFile\Encode_File\Encode_File\obj\Debug\Encode_File.csproj.SuggestedBindingRedirects.cache
+C:\Users\NamLDC\Code_C#\MaHoaFile\Encode_File\Encode_File\obj\Debug\Encode_File.Form1.resources
+C:\Users\NamLDC\Code_C#\MaHoaFile\Encode_File\Encode_File\obj\Debug\Encode_File.Properties.Resources.resources
+C:\Users\NamLDC\Code_C#\MaHoaFile\Encode_File\Encode_File\obj\Debug\Encode_File.csproj.GenerateResource.cache
+C:\Users\NamLDC\Code_C#\MaHoaFile\Encode_File\Encode_File\obj\Debug\Encode_File.csproj.CoreCompileInputs.cache
+C:\Users\NamLDC\Code_C#\MaHoaFile\Encode_File\Encode_File\obj\Debug\Encode_File.exe
+C:\Users\NamLDC\Code_C#\MaHoaFile\Encode_File\Encode_File\obj\Debug\Encode_File.pdb
